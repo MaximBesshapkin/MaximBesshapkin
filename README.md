@@ -10,16 +10,24 @@
 
 ---
 
-### 🤝 Социальные сети:
+## 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+  <a href="https://t.me/maxsga170" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-  </div>
+    <a href="https://vk.com/id59322909" target="_blank">
+      <img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/TfKk/QGyS93cW7/PNG%20-%20digital/VK%20Logo.png" width="40" height="40" alt="telegram" />
+    </a>
+
+---
+
+### 🧑‍🎓 Изучаю:
+
+<div>
+<img src="https://www.vhv.rs/dpng/d/279-2797278_golang-gopher-png-transparent-cartoons-gophers-golang-png.png" title="GO" alt="GO" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" title="python" alt="python" width="40" height="40"/>&nbsp
+
+</div>
 
 ---
 
