@@ -78,11 +78,11 @@
 
 ---
 
-### 💾 Работа с данными:
+### 💾 Работа с БД:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmyq488xpcGVdnHaJuGfRG4LL77vaoRxsuEw&usqp=CAU" title="mysql" alt="mysql" width="95" height="40"/>&nbsp
+  <img src="https://vitolavecchia.altervista.org/wp-content/uploads/2020/06/Cos%C3%A8-e-quali-sono-le-caratteristiche-del-DBMS-MongoDB.jpeg" title="mongodb" alt="mongodb" width="95" height="40"/>&nbsp
 </div>
 
 ---
@@ -98,12 +98,3 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
