@@ -97,4 +97,12 @@
 </div>
 
 ---
+### 👨‍💻 Примеры выполненых заданий:
+https://drive.google.com/drive/folders/1e_tK4Cl6AXsYslSy_-7uXM4q0aBnKYZA?usp=sharing
+
+https://www.postman.com/payload-cosmonaut-63766180/workspace/max-test/collection/31257412-0e5724ea-0fe6-4c9a-a6c6-613a2c8fec0e?action=share&creator=31257412
+
+---
+
+
 
